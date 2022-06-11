@@ -1,0 +1,3 @@
+- Upload push_notification.zip to your Web Hosting and Extract it
+- Put all the Keys and Ids in the settings.xml
+- See the documentation for more detail instructions
